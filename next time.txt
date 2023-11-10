@@ -1,0 +1,6 @@
+Next Friday:
+- Get image annotations working
+- Add other dog classes 
+- Port onto Jetson 
+- Run and optimize on Jetson 
+- Consider running in real-time
